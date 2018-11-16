@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Up-to-data Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/yijun_cv.pdf)
+[Up-to-data Curriculum Vitae [PDF]](http://jarrome.github.io/files/yijun_cv.pdf)
