@@ -8,5 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Yijun's home on the web :)
 
+
+* I'm now master student in SIST, ShanghaiTech University
+* Before that I received the Bachelor’s Degree ShanghaiTech University.
+* I'm interested in Robotics and Machine learning. My former works touch upon Robotics, Computer Vision and Machine Learning. Those projects cover topics related to Image regression, Topological representation, Kernel learning and Robot learning. Recently I mainly works on Robot learning for arms.
