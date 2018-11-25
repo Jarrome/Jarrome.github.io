@@ -25,6 +25,3 @@ redirect_from:
 * Paper _Fast Gaussian Process Occupancy Maps_ acc to ICARCV2018 (Aug 30, 2018. )
 
 * Attend ISC2018 and participate the HPC-AI competition (24 - 28 June 2018,  in Frankfurt, Germany)
-<p align="center">
-  <img src="https://jarrome.github.io/files/ISC2018.jpeg?raw=true" alt="Photo" style="width: 150px;"/> 
-</p>
