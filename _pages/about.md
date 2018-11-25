@@ -19,7 +19,7 @@ redirect_from:
 
 * Attend ICARCV2018 and present the work at ICARCV2018 (18-22 Nov 2018, in Singapore)
 <p align="center">
-  <img src="https://jarrome.github.io/files/ICARCV2018.jpeg?raw=true" alt="Photo" style="width: 150px;"/> 
+  <img src="https://jarrome.github.io/files/ICARCV2018.jpeg?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 
 * Paper _Fast Gaussian Process Occupancy Maps_ acc to ICARCV2018 (Aug 30, 2018. )
