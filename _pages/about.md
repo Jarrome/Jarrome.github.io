@@ -17,7 +17,7 @@ redirect_from:
 
 ### News
 
-* Participate in GermanOpen 2019 with our small rescue robot. (30 April - 6 May, 2019. )
+* Participate in GermanOpen 2019 with our small rescue robot. (30 April - 6 May, 2019, in Magdeburg, Germany)
 
 * Paper _Incrementally Building Topological Graphs via Distance Maps_ acc to RCAR2019 (5 April, 2019. )
 
