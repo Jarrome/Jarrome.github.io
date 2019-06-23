@@ -17,7 +17,7 @@ redirect_from:
 
 ### News
 
-* Paper _Configuration-Space Flipper Planning for Rescue Robots_ acc to SSRR2019 (29 June, 2019. )
+* Paper _Configuration-Space Flipper Planning for Rescue Robots_ acc to SSRR2019 (24 June, 2019. )
 
 * Participate in GermanOpen 2019 with our small rescue robot. (30 April - 6 May, 2019, in Magdeburg, Germany)
 
