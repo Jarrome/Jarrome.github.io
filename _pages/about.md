@@ -17,6 +17,8 @@ redirect_from:
 
 ### News
 
+* Paper _Configuration-Space Flipper Planning for Rescue Robots_ acc to SSRR2019 (29 June, 2019. )
+
 * Participate in GermanOpen 2019 with our small rescue robot. (30 April - 6 May, 2019, in Magdeburg, Germany)
 
 * Paper _Incrementally Building Topological Graphs via Distance Maps_ acc to RCAR2019 (5 April, 2019. )
