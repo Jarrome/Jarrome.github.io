@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae [PDF]](http://jarrome.github.io/files/yijun_cv.pdf)
+[Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv_yijun.pdf)
