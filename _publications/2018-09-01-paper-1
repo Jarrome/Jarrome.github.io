@@ -1,0 +1,17 @@
+---
+title: "Incrementally building topology graphs via distance maps"
+collection: publications
+permalink: /publications/2018-09-01-paper-2
+excerpt: 'This work focus on the incrementally building the the topology graph that overcomes the imprecise problem of match-merge method.
+'
+date: 2018-04-01
+venue: 'RCAR2019'
+paperurl: 'https://arxiv.org/abs/1811.01547.pdf'
+citation: ''
+---
+
+This work focus on the incrementally building the the topology graph that overcomes the imprecise problem of match-merge method.
+
+[Download paper here](https://arxiv.org/abs/1811.01547.pdf)
+
+Recommended citation: Y. Yuan and S. Schwertfeger, “Incrementally building topology graphs via distance maps,” in 2019 IEEE International Conference on Real- time Computing and Robotics (RCAR), 2019.
