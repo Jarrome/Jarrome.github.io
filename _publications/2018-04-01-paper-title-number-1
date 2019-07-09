@@ -1,0 +1,16 @@
+---
+title: "Fast gaussian process occupancy maps"
+collection: publications
+permalink: /publications/2018-04-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2018-04-01
+venue: 'ICARCV2018'
+paperurl: 'https://arxiv.org/abs/1811.10156.pdf'
+citation: ''
+---
+
+This work focus on the huge overhead on prediction side of GPOM. By split the local map into three region and merely us GP to predict the middle to tremendously reduce the cost.
+
+[Download paper here](https://arxiv.org/abs/1811.10156.pdf)
+
+Recommended citation: Yuan, Y., Kuang, H., & Schwertfeger, S. (2018, November). Fast Gaussian Process Occupancy Maps. In 2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV) (pp. 1502-1507). IEEE.'
