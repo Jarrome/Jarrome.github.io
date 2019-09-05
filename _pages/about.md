@@ -17,6 +17,10 @@ redirect_from:
 
 ### News
 
+* Granted the award of DAAD-Short-term scholarships (13 August, 2019. )
+
+* Attend RCAR2019 and present the work (4-9 August, 2019, in Irkutsk. )
+
 * Paper _Configuration-Space Flipper Planning for Rescue Robots_ acc to SSRR2019 (24 June, 2019. )
 
 * Participate in GermanOpen 2019 with our small rescue robot. (30 April - 6 May, 2019, in Magdeburg, Germany)
