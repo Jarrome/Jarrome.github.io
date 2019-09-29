@@ -17,6 +17,8 @@ redirect_from:
 
 ### News
 
+* Paper _Area Graph: Generation of Topological Maps using the Voronoi Diagram_ acc to ICAR2019 (29 Sept, 2019. )
+
 * Granted the award of DAAD-Short-term scholarships (13 August, 2019. )
 
 * Attend RCAR2019 and present the work (4-9 August, 2019, in Irkutsk. )
