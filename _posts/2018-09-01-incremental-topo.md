@@ -11,3 +11,4 @@ tags:
 ### Incremental Topo
 Yuan, Y. & Schwertfeger, S. (2019). Incrementally building topology graphs via distance maps. In 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR). IEEE.
 
+The implementation can be found in [src](https://github.com/STAR-Center/IncrementalTopo).
