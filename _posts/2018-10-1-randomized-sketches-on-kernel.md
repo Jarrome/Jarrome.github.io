@@ -1,7 +1,7 @@
 ---
 title: 'Randomized Sketches for Deep Kernel Learning'
 date: 2018-09-01
-permalink: /posts/2018/09/incremental-topo/
+permalink: /posts/2018/09/RS-DKL/
 tags:
   - Kernel Learning
   - DNN
