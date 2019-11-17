@@ -7,7 +7,11 @@ tags:
   - Motion Planning
 ---
 
-This project consists of initial flipper planning idea (SSRR2019) and flipper planning on 3D terrains.
+This project propose a very inexpensive method on compute the rescue robot morphology (with flipper) in various terrain.
+
+The implementation consists of 1. desgin the morphology can 2. control robot to achieve it. Generally, recent work focus on 2 while use state machine on 1 which is specifically for certain terrain. In this project, we solved the 1 that can deal with different terrain.
+
+consists of initial flipper planning idea (SSRR2019) and flipper planning on 3D terrains.
 
 ### Configuration-space Flipper Planning for Rescue Robots
 
