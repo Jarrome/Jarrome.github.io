@@ -16,6 +16,8 @@ redirect_from:
 
 ### News
 
+* Start my research visiting at Andreas Nuechter's group (2 Oct, 2019, in Wuerzberg, Germany)
+
 * Paper _Area Graph: Generation of Topological Maps using the Voronoi Diagram_ acc to ICAR2019 (29 Sept, 2019. )
 
 * Granted the award of DAAD-Short-term scholarships (13 August, 2019. )
