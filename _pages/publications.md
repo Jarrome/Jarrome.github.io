@@ -16,7 +16,10 @@ author_profile: true
 
 ---
 
-The papers on projects 1. 3d vision, 2. localization and 3. 3d flipperplanning has been submitted.
+### submitted list
+* One-step Point Set Registration
+* Improved VI-Localization
+* 3d Terrain Flipperplanning
 
 ### Preprint
 * Yuan, Y., Xu, Q., & Schwertfeger, S. (2019). Configuration-Space Flipper Planning on 3D Terrain. arXiv preprint arXiv:1909.07612.
