@@ -16,7 +16,7 @@ author_profile: true
 
 ---
 
-The paper on project 3d vision, localization and 3d flipperplanning has been submitted.
+The papers on projects 1. 3d vision, 2. localization and 3. 3d flipperplanning has been submitted.
 
 ### Preprint
 * Yuan, Y., Xu, Q., & Schwertfeger, S. (2019). Configuration-Space Flipper Planning on 3D Terrain. arXiv preprint arXiv:1909.07612.
