@@ -14,6 +14,8 @@ redirect_from:
 * Before that I achieved the Bachelor’s Degree in ShanghaiTech University.
 * I'm interested in Robotics and Machine learning. My former works touch upon Robotics, Computer Vision and Machine Learning. Those projects cover topics related to Image regression, Map representation, Motion planning and Kernel learning.
 
+My cv can be found in [Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv_yijun.pdf)
+
 ### News
 
 * Start my research visiting at Andreas Nuechter's group (2 Oct, 2019, in Wuerzberg, Germany)
