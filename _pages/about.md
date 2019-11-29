@@ -10,11 +10,10 @@ redirect_from:
 
 
 
-* I'm now master student in SIST, ShanghaiTech University
-* Before that I achieved the Bachelor’s Degree in ShanghaiTech University.
-* I'm interested in Robotics and Machine learning. My former works touch upon Robotics, Computer Vision and Machine Learning. Those projects cover topics related to Image regression, Map representation, Motion planning and Kernel learning.
+* I'm now master student in SIST, ShanghaiTech University. Before that I achieved the Bachelor’s Degree in ShanghaiTech University.
+* I'm interested in Robotics and Non-parametric Statistics. My former works touch upon Robotics, 2D/3D Vision and ML. Those projects cover topics related to Image regression, Map representation, Motion planning, Kernel learning and Point set registration.
 
-My cv can be found in [Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv_yijun.pdf)
+My cv can be found in [Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv_yijun.pdf).
 
 ### News
 
