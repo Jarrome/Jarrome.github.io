@@ -14,4 +14,4 @@ To achieve the goal, it consists of two subprojects.
 ### A new formulating of registration problem
 This work provide a non-iterative one-step solution. Its paper has been submitted to CVPR2020.
 
-### On going
+### Deep feature by supervise on the one-step solved transformation
