@@ -16,15 +16,11 @@ author_profile: true
 
 ---
 
-### submitted list
-* One-step Point Set Registration
-* Improved VI-Localization
-* 3d Terrain Flipperplanning
-
 ### Preprint
 * Yuan, Y., Xu, Q., & Schwertfeger, S. (2019). Configuration-Space Flipper Planning on 3D Terrain. arXiv preprint arXiv:1909.07612.
 
 ### Publications
+* Long, X., Xu, Q., Yuan, Y, He, Z & Schwertfeger, S. (2020). Improved Visual-Inertial Localization for Low-cost Rescue Robots. In 2020 21st IFAC World Congress (IFAC WC).
 * Hou, J., Yuan, Y, and Schwertfeger, S. (2019, December). Area Graph: Generation of Topological Maps using the Voronoi Diagram. In 2019 19th International Conference on Advanced Robotics (ICAR): IEEE.
 * Yuan, Y., Wang, L., & Schwertfeger, S. (2019, September). Configuration-space flipper planning for rescue robots. In 2019 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR) (pp. 37-42). IEEE.
 * Yuan, Y., & Schwertfeger, S. (2019, August). Incrementally Building Topology Graphs via Distance Maps. In 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR): IEEE.
