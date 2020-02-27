@@ -12,6 +12,6 @@ This is the project during my research visiting at Andread Nuechter's group. The
 To achieve the goal, it consists of two subprojects.
 
 ### A new formulating of registration problem
-This work provide a non-iterative one-step solution. Its paper has been submitted to CVPR2020.
+This work provide a non-iterative one-step solution.
 
 ### Deep feature by supervising on the one-step solved transformation
