@@ -17,6 +17,8 @@ My cv can be found in [Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv
 
 ### News
 
+* Paper _Improved Visual-Inertial Localization for Low-cost Rescue Robots_ acc to IFAC-WC 2020 (27 Feb, 2020. )
+
 * Research visiting at Andreas Nuechter's group (Oct - Dec, 2019, in Wuerzberg, Germany)
 
 * Paper _Area Graph: Generation of Topological Maps using the Voronoi Diagram_ acc to ICAR2019 (29 Sept, 2019. )
