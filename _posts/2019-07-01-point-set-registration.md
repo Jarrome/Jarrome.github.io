@@ -15,3 +15,4 @@ To achieve the goal, it consists of two subprojects.
 This work provide a non-iterative one-step solution.
 
 ### Deep feature by supervising on the one-step solved transformation
+By self-supervising, Point Set Local Descriptors is learned.
