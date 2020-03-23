@@ -11,7 +11,7 @@ redirect_from:
 
 
 * I'm now master student in SIST, ShanghaiTech University. My advisor is [Prof. Dr. Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren). Before that I achieved the Bachelor’s Degree in ShanghaiTech University.
-* I'm interested in Robotics and Non-parametric Statistics. My former works touch upon Robotics, 2D/3D Vision and ML. Those projects cover topics related to Image regression, Map representation, Motion planning, Kernel learning and Point set registration.
+* I'm interested in Robotics and Non-parametric Statistics. My previous works touch upon Robotics, 2D/3D Vision and ML. Those projects cover topics related to Image regression, Map representation, Motion planning, Kernel learning and Point set registration.
 
 My cv can be found in [Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv_yijun.pdf).
 
