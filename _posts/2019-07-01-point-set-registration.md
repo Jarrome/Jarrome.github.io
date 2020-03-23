@@ -14,5 +14,9 @@ To achieve the goal, it consists of two subprojects.
 ### A new formulating of registration problem
 This work provide a non-iterative one-step solution.
 
+Yuan, Y., Borrmann, D., Nüchter, A., & Schwertfeger, S. (2020). Non-iterative One-step Solution for Point Set Registration Problem on Pose Estimation without Correspondence. arXiv preprint arXiv:2003.00457.
+
 ### Deep feature by supervising on the one-step solved transformation
 By self-supervising, Point Set Local Descriptors is learned.
+
+Yuan, Y., Hou, J., Nüchter, A., & Schwertfeger, S. (2020). Self-supervised Point Set Local Descriptors for Point Cloud Registration. arXiv preprint arXiv: 2003.05199.
