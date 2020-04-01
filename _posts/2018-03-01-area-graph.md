@@ -14,7 +14,7 @@ Representing a scanned map of the real environ- ment as a topological structure 
 We use a topological map representation, the Area Graph, in which the vertices represent areas and edges represent passages. The Area Graph is developed from a pruned Voronoi Graph, the Topology Graph. We also employ a simple room detection algorithm to compensate the fact that the Voronoi Graph gets unstable in open areas. We claim that our area segmentation method is superior to state-of-the-art approaches in complex indoor environments and support this claim with a number of experiments.
 
 <p align="center">
-  <img src="https://jarrome.github.io/files/areaGraph.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://jarrome.github.io/files/areaGraph.png?raw=true" alt="Photo" style="width: 650px;"/> 
 </p>
 
 * Hou, j., Yuan, Y. & Schwertfeger, S. (2019). Area graph: Generation of topological maps using the voronoi diagram. In 2019 IEEE International Conference on Advanced Robotics (ICAR). IEEE.
