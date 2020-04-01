@@ -25,7 +25,7 @@ To achieve the goal, it consists of two subprojects.
  In this work, we propose to learn local descriptors for point clouds in a self-supervised manner. In each iteration of the training, the input of the network is merely one unlabeled point cloud. On top of our previous work, that directly solves the transformation between two point sets in one step without correspondences, the proposed method is able to train from one point cloud, by supervising its self-rotation, that we randomly generate. The whole training requires no manual annotation. In several experiments we evaluate the performance of our method on various datasets and compare to other state of the art algorithms. The results show, that our self-supervised learned descriptor achieves equivalent or even better performance than the supervised learned model, while being easier to train and not requiring labeled data.
 
 <p align="center">
-  <img src="https://jarrome.github.io/files/self-supervised.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://jarrome.github.io/files/self-supervised.png?raw=true" alt="Photo" style="width: 650px;"/> 
 </p>
 
 * Yuan, Y., Hou, J., Nüchter, A., & Schwertfeger, S. (2020). Self-supervised Point Set Local Descriptors for Point Cloud Registration. arXiv preprint arXiv: 2003.05199.
