@@ -99,7 +99,6 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  researchgate     : "https://www.researchgate.net/profile/Yijun_Yuan5"
   linkedin         : "yijun-yuan-4bba89131/"
   orcid            : #"http://orcid.org/testaccount"
   pinterest        :
@@ -113,8 +112,11 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
-
+  links            :
+    - label : "researchGate"
+      icon : "fab fa-fw fa-researchgate"
+      url : "https://www.researchgate.net/profile/Yijun_Yuan5"
+      
 # Reading Files
 include:
   - .htaccess
