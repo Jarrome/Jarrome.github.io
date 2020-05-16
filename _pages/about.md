@@ -21,7 +21,7 @@ My researchGate is [Yijun_Yuan5](https://www.researchgate.net/profile/Yijun_Yuan
 
 * Paper _Improved Visual-Inertial Localization for Low-cost Rescue Robots_ acc to IFAC-WC 2020 (27 Feb, 2020. )
 
-* Research visiting at [Andreas Nuechter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en)'s group (Oct - Dec, 2019, in Wuerzberg, Germany)
+* Research visiting at [Prof. Dr. Andreas Nuechter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en)'s group (Oct - Dec, 2019, in Wuerzberg, Germany)
 
 * Paper _Area Graph: Generation of Topological Maps using the Voronoi Diagram_ acc to ICAR2019 (29 Sept, 2019. )
 
