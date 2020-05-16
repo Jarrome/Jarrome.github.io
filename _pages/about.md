@@ -10,16 +10,18 @@ redirect_from:
 
 
 
-* I'm now master student in SIST, ShanghaiTech University. My advisor is [Prof. Dr. Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren). Before that I achieved the Bachelor’s Degree in ShanghaiTech University.
+* I'm now master student in SIST, ShanghaiTech University. My advisor is [Prof. Dr. Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren). Before that I received the Bachelor’s Degree in ShanghaiTech University.
 * I'm interested in Robotics and Non-parametric Statistics. My previous works touch upon Robotics, 2D/3D Vision and ML. Those projects cover topics related to Image regression, Map representation, Motion planning, Kernel learning and Point set registration.
 
 My cv can be found in [Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv_yijun.pdf).
+
+My researchGate is [Yijun_Yuan5](https://www.researchgate.net/profile/Yijun_Yuan5).
 
 ### News
 
 * Paper _Improved Visual-Inertial Localization for Low-cost Rescue Robots_ acc to IFAC-WC 2020 (27 Feb, 2020. )
 
-* Research visiting at Andreas Nuechter's group (Oct - Dec, 2019, in Wuerzberg, Germany)
+* Research visiting at [Andreas Nuechter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en)'s group (Oct - Dec, 2019, in Wuerzberg, Germany)
 
 * Paper _Area Graph: Generation of Topological Maps using the Voronoi Diagram_ acc to ICAR2019 (29 Sept, 2019. )
 
