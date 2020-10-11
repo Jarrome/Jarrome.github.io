@@ -19,6 +19,8 @@ My researchGate is [Yijun_Yuan5](https://www.researchgate.net/profile/Yijun_Yuan
 
 ### News
 
+* Paper _Configuration-space Flipper Planning on 3D Terrain_ acc to SSRR 2020 (10 Oct, 2020. )
+
 * Paper _Improved Visual-Inertial Localization for Low-cost Rescue Robots_ acc to IFAC-WC 2020 (27 Feb, 2020. )
 
 * Research visiting at [Prof. Dr. Andreas Nuechter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en)'s group (Oct - Dec, 2019, in Wuerzberg, Germany)
