@@ -17,11 +17,11 @@ author_profile: true
 ---
 
 ### Preprint
-* Yuan, Y., Xu, Q., & Schwertfeger, S. (2019). Configuration-Space Flipper Planning on 3D Terrain. arXiv preprint arXiv:1909.07612.
 * Yuan, Y., Borrmann, D., Nüchter, A., & Schwertfeger, S. (2020). Non-iterative One-step Solution for Point Set Registration Problem on Pose Estimation without Correspondence. arXiv preprint arXiv:2003.00457.
 * Yuan, Y., Hou, J., Nüchter, A., & Schwertfeger, S. (2020). Self-supervised Point Set Local Descriptors for Point Cloud Registration. arXiv preprint arXiv: 2003.05199
 
 ### Publications
+* Yuan, Y., Xu, Q., & Schwertfeger, S. (2020). Configuration-space Flipper Planning on 3D Terrain. In 2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). IEEE.
 * Long, X., Xu, Q., Yuan, Y, He, Z & Schwertfeger, S. (2020). Improved Visual-Inertial Localization for Low-cost Rescue Robots. In 2020 21st IFAC World Congress (IFAC WC).
 * Hou, J., Yuan, Y, and Schwertfeger, S. (2019, December). Area Graph: Generation of Topological Maps using the Voronoi Diagram. In 2019 19th International Conference on Advanced Robotics (ICAR): IEEE.
 * Yuan, Y., Wang, L., & Schwertfeger, S. (2019, September). Configuration-space flipper planning for rescue robots. In 2019 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR) (pp. 37-42). IEEE.
