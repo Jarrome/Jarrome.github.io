@@ -18,6 +18,7 @@ My cv can be found in [Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv
 My researchGate is [Yijun_Yuan5](https://www.researchgate.net/profile/Yijun_Yuan5).
 
 ### News
+* Paper _Self-supervised Point Set Local Descriptors for Point Cloud Registration._ acc to Sensors 2021 (7 Jan, 2021. )
 
 * Paper _Configuration-space Flipper Planning on 3D Terrain_ acc to SSRR 2020 (10 Oct, 2020. )
 
