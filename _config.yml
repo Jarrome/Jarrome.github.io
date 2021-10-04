@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yijun Yuan"
 title_separator          : "-"
 name                     : &name "Yijun Yuan"
-description              : &description "Master student, SIST, ShanghaiTech University"
+description              : &description "PhD student, Wuerzburg University"
 url                      : https://jarrome.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jarrome/jarrome.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yijun Yuan"
   avatar           : "2inches.jpeg"
-  bio              : "Master student, SIST, ShanghaiTech University"
-  location         : "Shanghai, China"
+  bio              : "PhD student, Wuerzburg University"
+  location         : "Wuerzburg, Germany"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yuanwj@shanghaitech.edu.cn"
-  uri              : "https://robotics.shanghaitech.edu.cn/people/yuanyj"
+  email            : "yijun.yuan@uni-wuerzburg.de"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
