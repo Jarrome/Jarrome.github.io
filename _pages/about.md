@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* I'm now a PhD student in Wuerzburg University, Germany. My supervisers are [Prof. Dr. Andreas Nuchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I achieved my Bachelor’s and Master's Degree in my dear ShanghaiTech University.
+* I'm now a PhD student in Wuerzburg University, Germany. My supervisers are [Prof. Dr. Andreas Nuchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I achieved my Bachelor’s and Master's Degree in dear ShanghaiTech University.
 * I'm interested in Robotics and Non-parametric Statistics. My previous works touch upon Robotics, 2D/3D Vision and ML. Those projects cover topics related to Image regression, Map representation, Motion planning, Kernel learning and Point set registration.
 
 My cv can be found in [Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv_yijun.pdf).
