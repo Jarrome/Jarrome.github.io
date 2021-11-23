@@ -17,6 +17,8 @@ My cv can be found in [Curriculum Vitae [PDF]](http://jarrome.github.io/files/cv
 
 My researchGate is [Yijun_Yuan5](https://www.researchgate.net/profile/Yijun_Yuan5).
 
+The **code** of my papers are open released. Please see publication page for the link.
+
 ### News
 * A new start in Wuerzburg University (15 sept, 2021. )
 
