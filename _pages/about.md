@@ -22,6 +22,7 @@ The **code** of my papers are open released. Please see publication page for the
 ### News
 * A new start in Wuerzburg University (15 sept, 2021. )
 
+<!-- 
 * Paper _Self-supervised Point Set Local Descriptors for Point Cloud Registration._ acc to Sensors 2021 (7 Jan, 2021. )
 
 * Paper _Configuration-space Flipper Planning on 3D Terrain_ acc to SSRR 2020 (10 Oct, 2020. )
@@ -51,3 +52,5 @@ The **code** of my papers are open released. Please see publication page for the
 * Paper _Fast Gaussian Process Occupancy Maps_ acc to ICARCV2018 (30 Aug, 2018. )
 
 * Attend ISC2018 and participate the HPC-AI competition (24 - 28 June 2018,  in Frankfurt, Germany)
+
+-->
