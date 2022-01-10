@@ -17,7 +17,7 @@ author_profile: true
 ---
 
 ### Publications
-* Hou, J., Y. Yuan, Z. He, and S. Schwertfeger, "Matching Maps based on the Area Graph", Intelligent Service Robotics, In Press.
+* Hou, J., Y. Yuan, Z. He, and S. Schwertfeger, "Matching Maps based on the Area Graph", Intelligent Service Robotics (2021).
 * Yuan, Y., Borrmann, D., Hou, J., Ma, Y., Nüchter, A., & Schwertfeger, S. (2021). Self-supervised Point Set Local Descriptors for Point Cloud Registration. Sensors. [<span style="color:blue">(code)</span>](https://github.com/STAR-Center/SS-FeatNet)
 * Yuan, Y., Xu, Q., & Schwertfeger, S. (2020). Configuration-space Flipper Planning on 3D Terrain. In 2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). IEEE. [<span style="color:blue">(code)</span>](https://github.com/STAR-Center/flipperplanning3DTerrain)
 * Long, X., Xu, Q., Yuan, Y, He, Z & Schwertfeger, S. (2020). Improved Visual-Inertial Localization for Low-cost Rescue Robots. In 2020 21st IFAC World Congress (IFAC WC).
