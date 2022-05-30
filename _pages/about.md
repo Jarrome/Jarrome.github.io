@@ -20,7 +20,7 @@ My researchGate is [Yijun_Yuan5](https://www.researchgate.net/profile/Yijun_Yuan
 The **code** of my papers are open released. Please see publication page for the link.
 
 ### News
-* Paper _Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set_ is accepted to RAL2022 (30 May, 2022) [code](https://github.com/Jarrome/IFR)
+* Paper [Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set]() is accepted to **RAL 2022** (30 May, 2022) [[code](https://github.com/Jarrome/IFR),paper]
 * A new start in Wuerzburg University (15 sept, 2021. )
 
 <!-- 
