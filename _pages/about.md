@@ -15,12 +15,15 @@ redirect_from:
 
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
 
-The **code** of my papers are open released. Please see publication page for the link.
-
 ### News
-* Paper [Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set]() is accepted to **RAL 2022** (30 May, 2022) [[code](https://github.com/Jarrome/IFR),paper]
+* [Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set]()
+ 
+  Accepted to **RAL 2022** (30 May, 2022) 
+  
+  [[code](https://github.com/Jarrome/IFR),paper]
 * A new start in Wuerzburg University (15 sept, 2021. )
 
+--- 
 Full publications show in [page](https://jarrome.github.io/publications/).
 
 <!-- 
