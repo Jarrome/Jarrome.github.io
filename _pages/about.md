@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* I'm now a PhD student in Wuerzburg University, Germany. My supervisers are [Prof. Dr. Andreas Nuchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I achieved my Bachelor’s and Master's Degree in dear ShanghaiTech University.
+* I'm now a PhD student in **Wuerzburg University**, Germany. My supervisers are [Prof. Dr. Andreas Nuchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I achieved my Bachelor’s and Master's Degree in dear **ShanghaiTech University**.
 * I'm interested in Robotics. My previous works touch upon Rescue Robotics, Registration and Mapping. 
 
 [CV](http://jarrome.github.io/files/cv_yijun.pdf) | [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5) | 
@@ -22,6 +22,7 @@ The **code** of my papers are open released. Please see publication page for the
 * A new start in Wuerzburg University (15 sept, 2021. )
 
 Full publications show in [page](https://jarrome.github.io/publications/).
+
 <!-- 
 * Paper _Self-supervised Point Set Local Descriptors for Point Cloud Registration._ acc to Sensors 2021 (7 Jan, 2021. )
 
