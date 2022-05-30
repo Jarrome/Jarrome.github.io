@@ -13,7 +13,7 @@ redirect_from:
 * I'm now a PhD student in **Wuerzburg University**, Germany. My supervisers are [Prof. Dr. Andreas Nuchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I achieved my Bachelor’s and Master's Degree in dear **ShanghaiTech University**.
 * I'm interested in Robotics. My previous works touch upon Rescue Robotics, Registration and Mapping. 
 
-[CV](http://jarrome.github.io/files/cv_yijun.pdf) | [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5) | 
+[CV](http://jarrome.github.io/files/cv_yijun.pdf) | [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5) | [codes](https://jarrome.github.io/publications/)
 
 The **code** of my papers are open released. Please see publication page for the link.
 
