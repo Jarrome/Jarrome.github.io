@@ -20,7 +20,7 @@ redirect_from:
  
   Accepted to **RAL 2022** (30 May, 2022) 
   
-  [[code](https://github.com/Jarrome/IFR),paper]
+  [[code](https://github.com/Jarrome/IFR),[paper](https://arxiv.org/pdf/2205.15954.pdf)]
 * A new start in Wuerzburg University (15 sept, 2021. )
 
 --- 
