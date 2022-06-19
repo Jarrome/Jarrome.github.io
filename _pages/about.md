@@ -20,30 +20,54 @@ redirect_from:
  
   Accepted to **RAL 2022** (15 June, 2022) 
   
-  [[code](https://github.com/Jarrome/IMT_Mapping),[paper]()]
 * ***Indirect Point Cloud Registration***: Aligning Distance Fields using a Pseudo Third Point Set
  
   Accepted to **RAL 2022** (30 May, 2022) 
   
-  [[code](https://github.com/Jarrome/IFR),[paper](https://arxiv.org/pdf/2205.15954.pdf)]
 * A new start in Wuerzburg University (15 sept, 2021. )
 
+--- 
 
+### Recent researches
+Full publications show in [page](https://jarrome.github.io/publications).
+<br>
+<br>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
         <div class="one">
-        <img src='media/IFR.png' width="160" height="90"></div>
+        <img src="https://jarrome.github.io/files/IMT_Mapping.jpeg" width="100" height="40"></div>
       </td>
       <td valign="top" width="75%">
-          <!-- a href="https://pengsongyou.github.io/nice-slam" -->
             <papertitle>
-              Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set
+              An Algorithm for the <strong>SE(3)-Transformation</strong> on <strong>Neural Implicit Maps</strong> for <strong>Remapping Functions</strong>
             </papertitle>
-          <!-- /a -->
       <br>
           <strong>Yijun Yuan</strong>,
-          <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>,
+          <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
+      <br>
+          <em>IEEE Robotics and Automation Letters (<strong>RAL</strong>)</em>, 2022
+      <br>
+        <a href="">paper</a> |
+        <a href="https://github.com/Jarrome/IMT_Mapping">code</a>
+        <p></p>
+        SE(3)-transformation on neural-implicit maps and enable remapping function. This is the first algorithm that make neural-implicit based reconstruction <strong>compatible with Loop-closure</strong>.
+        <p></p>
+      </td>
+    </tr>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one">
+        <img src="https://jarrome.github.io/files/IFR.jpeg" width="300" height="140"></div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <strong>Indirect Point Cloud Registration</strong>: Aligning Distance Fields <strong>using a Pseudo Third Point Set</strong>
+            </papertitle>
+      <br>
+          <strong>Yijun Yuan</strong>,
+          <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
       <br>
           <em>IEEE Robotics and Automation Letters (<strong>RAL</strong>)</em>, 2022
       <br>
@@ -54,9 +78,6 @@ redirect_from:
         <p></p>
       </td>
     </tr>
-
---- 
-Full publications show in [page](https://jarrome.github.io/publications/).
 
 <!-- 
 * Paper _Self-supervised Point Set Local Descriptors for Point Cloud Registration._ acc to Sensors 2021 (7 Jan, 2021. )
