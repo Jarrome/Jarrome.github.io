@@ -28,6 +28,33 @@ redirect_from:
   [[code](https://github.com/Jarrome/IFR),[paper](https://arxiv.org/pdf/2205.15954.pdf)]
 * A new start in Wuerzburg University (15 sept, 2021. )
 
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one">
+        <img src='media/IFR.png' width="160" height="90"></div>
+      </td>
+      <td valign="top" width="75%">
+          <!-- a href="https://pengsongyou.github.io/nice-slam" -->
+            <papertitle>
+              Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set
+            </papertitle>
+          <!-- /a -->
+      <br>
+          <strong>Yijun Yuan</strong>,
+          <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>,
+      <br>
+          <em>IEEE Robotics and Automation Letters (<strong>RAL</strong>)</em>, 2022
+      <br>
+        <a href="https://arxiv.org/pdf/2205.15954.pdf">paper</a> |
+        <a href="https://github.com/Jarrome/IFR">code</a>
+        <p></p>
+        Registration two point cloud with a pseudo-third point set. Thus method have potential to work with neural-implicit registration.
+        <p></p>
+      </td>
+    </tr>
+
 --- 
 Full publications show in [page](https://jarrome.github.io/publications/).
 
