@@ -36,7 +36,7 @@ Full publications show in [page](https://jarrome.github.io/publications).
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
         <div class="one">
-        <img src="https://jarrome.github.io/files/IMT_Mapping.jpeg" width="100" height="40"></div>
+        <img src="https://github.com/Jarrome/IMT_Mapping/blob/master/assets/pipeline_neuralImplicit.png" width="300" height="120"></div>
       </td>
       <td valign="top" width="75%">
             <papertitle>
