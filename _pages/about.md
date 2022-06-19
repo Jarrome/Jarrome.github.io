@@ -26,8 +26,6 @@ redirect_from:
 
 ### Recent researches
 Full publications show in [page](https://jarrome.github.io/publications).
-<br>
-<br>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
