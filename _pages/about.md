@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yijun Yuan (元祎君)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,7 +24,7 @@ redirect_from:
 
 --- 
 
-### Recent researches
+## Recent researches
 Full publications show in [page](https://jarrome.github.io/publications).
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
