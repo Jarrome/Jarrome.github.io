@@ -16,9 +16,9 @@ redirect_from:
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
 
 ### News
-* "An Algorithm for the ***SE(3)-Transformation on Neural Implicit Maps*** for Remapping Functions" accepted to **RAL 2022** (15 June, 2022) 
+* "*An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions*" accepted to **RAL 2022** (15 June, 2022) 
   
-* "***Indirect Point Cloud Registration***: Aligning Distance Fields using a Pseudo Third Point Set" accepted to **RAL 2022** (30 May, 2022) 
+* "*Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set*" accepted to **RAL 2022** (30 May, 2022) 
   
 * A new start in Wuerzburg University (15 sept, 2021. )
 
@@ -32,7 +32,7 @@ Full publications show in [page](https://jarrome.github.io/publications).
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
         <div class="one">
-        <img src="https://github.com/Jarrome/IMT_Mapping/blob/master/assets/pipeline_neuralImplicit.png" width="300" height="120"></div>
+        <img src="https://jarrome.github.io/files/IMT_Mapping.png" width="300" height="120"></div>
       </td>
       <td valign="top" width="75%">
             <papertitle>
