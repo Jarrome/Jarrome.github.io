@@ -42,7 +42,7 @@ Full publications show in [page](https://jarrome.github.io/publications).
       <br>
           <em>IEEE Robotics and Automation Letters (<strong>RAL</strong>)</em>, 2022
       <br>
-        <a href="">paper</a> |
+        <a href="https://arxiv.org/abs/2206.08712">paper</a> |
         <a href="https://github.com/Jarrome/IMT_Mapping">code</a>
         <p></p>
         SE(3)-transformation on neural-implicit maps and enable remapping function. This is the first algorithm that make neural-implicit based reconstruction <strong>compatible with Loop-closure</strong>.
