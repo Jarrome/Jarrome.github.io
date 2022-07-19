@@ -42,6 +42,7 @@ Full publications show in [page](https://jarrome.github.io/publications). All co
       <br>
           <em>IEEE Robotics and Automation Letters (<strong>RAL</strong>)</em>, 2022
       <br>
+        <a href="https://jarrome.github.io/IMT-MAP/">website</a> |
         <a href="https://arxiv.org/abs/2206.08712">paper</a> |
         <a href="https://github.com/Jarrome/IMT_Mapping">code</a>
         <p></p>
