@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Deformable Neural Radiance Fields creates free-viewpoint portraits (nerfies) from casually captured videos.">
+  <meta name="keywords" content="Neural Implicit Maps, Transformation, Remapping, LoopClosure">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SE(3)-Transformation on Neural Implicit Maps for Remapping Functions</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://keunhong.com">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://jarrome.github.io">
+            Homepage
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">SE(3)-Transformation on Neural Implicit Maps for Remapping Functions</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="jarrome.github.io">Yijun Yuan</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nüchter</a><sup>1</sup>,</span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>Würzburg University</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://ieeexplore.ieee.org/abstract/document/9804847?casa_token=Legxw4XSQmsAAAAA:CFvE9onm9NGs0HwQTFCHtIY2N0ZbX6Rv4Akp2JqP2qSybeI_CysjC2gF7G20cjJFbW3vnCruhg53"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2206.08712"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/Jarrome/IMT_Mapping"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+
+      <div class="column is-four-fifths">
+
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+	  Implicit representations are widely used for object reconstruction due to their efficiency and flexibility. In 2021, a novel structure named neural implicit map has been invented for incremental reconstruction. A neural implicit map alleviates the problem of inefficient memory cost of previous online 3D dense reconstruction while producing better quality.
+	  </p>
+	  <p>
+	  However, the neural implicit map suffers the limitation that it does not support remapping as the frames of scans are encoded into a deep prior after generating the neural implicit map. This means, that neither this generation process is invertible, nor a deep prior is transformable. The non-remappable property makes it not possible to apply loop-closure techniques. 
+	  </p>
+
+	  <center><img src="./static/images/twobranch.png" class="center" style="max-width: 60%;max-height: 60%;display: inline-block;"></center>
+	  <p>
+	  We present a neural implicit map based transformation algorithm to fill this gap. As our neural implicit map is transformable, our model supports remapping for this special map of latent features.
+	  With this function of transformation, our dense mapping model can well equiped into SLAM algorithm with BA and Loopclosure.
+          </p>
+        </div>
+
+      </div>
+    </div>
+    <!--/ Abstract. -->
+
+    <!-- Paper video. -->
+    <!--/ Paper video. -->
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+
+    <!-- Method. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Method</h2>
+		<div>
+			<div class="" style="max-width: 30%;max-height: 30%;display: inline-block;"><a><img src="./static/images/PLV.png" class="center"></a></div>
+			<div class="" style="max-width: 30%;max-height: 30%;display: inline-block;"><a><img src="./static/images/SO3.png" class="center"></a></div>
+			<div class="" style="max-width: 30%;max-height: 30%;display: inline-block;"><a><img src="./static/images/transform.png" class="center"></a></div>
+		</div>
+     </div>
+   </div>
+ </div>
+ <div class="container is-max-desktop">
+   <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-justified">
+          <p>
+	  	Our work is based on DI-Fusion's PLIVox. The transformation borrows SO3-equivariance encoding of local geometries. 
+          </p>
+
+	  <center><img src="./static/images/pipeline_neuralImplicit.png" class="center" style="max-width: 80%;max-height: 80%;display: inline-block;"></center>
+          <p>
+	  	We implement a remapping pipeline for 3D reconstruction. When pose-stream changes (because of BA or loop-closure), corresponding frames will be transformed and remapped.
+          </p>
+        </div>
+
+      </div>
+    </div>
+    <!--/ Animation. -->
+
+  </div>
+</section>
+
+<section class="section">
+	  <div class="container is-max-desktop">
+	    <div class="columns is-centered has-text-centered">
+		    <div class="column is-four-fifths">
+			    <h2 class="title is-3" style="margin-top: -20px">Demo</h2>
+				<div class="content has-text-justified">
+				  <p style="margin-top: 30px">
+				  	With the poses stream from ORB-SLAM2, we generate this reconstruction of Replica datasets with our remapping function.
+				  </p>
+
+		    
+			<div class="" style="max-width: 20%;max-height: 20%;display: inline-block;"><a><img src="./static/images/textured/office0.png" class="center"></a></div>
+			<div class="" style="max-width: 20%;max-height: 20%;display: inline-block;"><a><img src="./static/images/textured/office1.png" class="center"></a></div>
+			<div class="" style="max-width: 20%;max-height: 20%;display: inline-block;"><a><img src="./static/images/textured/office2.png" class="center"></a></div>
+			<div class="" style="max-width: 20%;max-height: 20%;display: inline-block;"><a><img src="./static/images/textured/office3.png" class="center"></a></div>
+			<div class="" style="max-width: 20%;max-height: 20%;display: inline-block;"><a><img src="./static/images/textured/office4.png" class="center"></a></div>
+			<div class="" style="max-width: 25%;max-height: 25%;display: inline-block;"><a><img src="./static/images/textured/room0.png" class="center"></a></div>
+			<div class="" style="max-width: 25%;max-height: 25%;display: inline-block;"><a><img src="./static/images/textured/room1.png" class="center"></a></div>
+			<div class="" style="max-width: 25%;max-height: 25%;display: inline-block;"><a><img src="./static/images/textured/room2.png" class="center"></a></div>
+			        <div class="content has-text-justified">
+				  <p style="margin-top: 30px">
+				  	We additionally implement an attempt on KITTI-odometry 00 to verify the use of remapping. The quality of neural implicit mapping here still needs improvements.
+				  </p>
+			<center><div class="" style="max-width: 60%;max-height: 60%;display: inline-block;"><a><img src="./static/images/FMT_kitti.png" class="center"></a></div></center>
+
+        </div>
+	</div>
+	</div>
+	</div>
+</section>
+
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>
+@article{yuan2022algorithm,
+  title={An Algorithm for the SE (3)-Transformation on Neural Implicit Maps for Remapping Functions},
+  author={Yuan, Yijun and N{\"u}chter, Andreas},
+  journal={IEEE Robotics and Automation Letters},
+  year={2022},
+  publisher={IEEE}
+}
+</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <p>
+This webpage template is from Nerfies. We sincerely appreciate the open-release of this template.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
