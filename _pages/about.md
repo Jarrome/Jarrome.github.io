@@ -16,9 +16,9 @@ redirect_from:
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
 
 ### News
-* "*[An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions](https://jarrome.github.io/IMT-MAP/)*" accepted to **RAL 2022** (15 June, 2022) 
+* "*An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions*" accepted to **RAL 2022** (15 June, 2022) 
   
-* "*[Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set](https://github.com/Jarrome/IFR)*" accepted to **RAL 2022** (30 May, 2022) 
+* "*Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set*" accepted to **RAL 2022** (30 May, 2022) 
   
 * A new start in Wuerzburg University (15 sept, 2021. )
 
@@ -34,7 +34,7 @@ Full publications show in [page](https://jarrome.github.io/publications). All co
       </td>
       <td valign="top" width="75%">
             <papertitle>
-              An Algorithm for the <strong>SE(3)-Transformation</strong> on <strong>Neural Implicit Maps</strong> for <strong>Remapping Functions</strong>
+              <a href="https://jarrome.github.io/IMT-MAP/">An Algorithm for the <strong>SE(3)-Transformation</strong> on <strong>Neural Implicit Maps</strong> for <strong>Remapping Functions</strong> </a>
             </papertitle>
       <br>
           <strong>Yijun Yuan</strong>,
@@ -58,7 +58,7 @@ Full publications show in [page](https://jarrome.github.io/publications). All co
       </td>
       <td valign="top" width="75%">
             <papertitle>
-              <strong>Indirect Point Cloud Registration</strong>: Aligning Distance Fields <strong>using a Pseudo Third Point Set</strong>
+              <a href="https://github.com/Jarrome/IFR"><strong>Indirect Point Cloud Registration</strong>: Aligning Distance Fields <strong>using a Pseudo Third Point Set</strong></a>
             </papertitle>
       <br>
           <strong>Yijun Yuan</strong>,
