@@ -155,3 +155,17 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+/*image side by side*/
+.column {
+  float: left;
+  width: 50.0%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
