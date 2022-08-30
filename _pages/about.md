@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* I'm now a PhD student in **Wuerzburg University**, Germany. My supervisers are [Prof. Dr. Andreas Nuchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I received my Bachelor’s and Master's Degree from dear **ShanghaiTech University**.
+* I'm now a PhD student in Wuerzburg University. My supervisers are [Prof. Dr. Andreas Nuchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I received my Bachelor’s and Master's Degree from dear ShanghaiTech University.
 * I'm interested in Robotics. My previous works touch upon Rescue Robotics, Registration and Mapping. 
 
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
@@ -25,7 +25,6 @@ redirect_from:
 --- 
 
 ## Recent researches
-Full publications show in [page](https://jarrome.github.io/publications). All codes have been open-released.
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
@@ -50,6 +49,7 @@ Full publications show in [page](https://jarrome.github.io/publications). All co
         <p></p>
       </td>
     </tr>
+</table> 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
@@ -73,7 +73,12 @@ Full publications show in [page](https://jarrome.github.io/publications). All co
         <p></p>
       </td>
     </tr>
+</table> 
 
+---
+
+<p>Full publications show in <a href="https://jarrome.github.io/publications">page</a>. All codes have been open-released.
+</p>
 <!-- 
 * Paper _Self-supervised Point Set Local Descriptors for Point Cloud Registration._ acc to Sensors 2021 (7 Jan, 2021. )
 
