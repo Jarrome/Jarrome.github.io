@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Uni-Fusion">
+  <meta name="keywords" content="Latent Implicit Maps">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Uni-Fusion: Universal Continuous Mapping</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="stylesheet" href="./static/css/compare.css">
+
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+
+<script
+  defer
+  src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"
+/>
+  <!-- script type="text/javascript" src="./static/js/vanilla-tilt.js"></script-->
+  <script src="./static/js/index.js"></script>
+</head>
+
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://keunhong.com">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://jarrome.github.io">
+            Homepage
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">Uni-Fusion: Universal Continuous Mapping</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="jarrome.github.io">Yijun Yuan</a>,</span>
+            <span class="author-block">
+              <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nüchter</a></span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">InfoXVII - Robotics, Julius-Maximilians-Universität Würzburg
+</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark" style="background-color: #808080">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark" style="background-color: #808080">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark" style="background-color: #808080">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+
+      <div class="column is-four-fifths">
+
+        <h1 class="title is-3">All you need, in one Uni. :D</h1>
+        <div class="content has-text-justified">
+	  <center><img src="./static/ims/cover.png" class="center" style="max-width: 100%;max-height: 100%;display: inline-block;"></center>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3">1. Incremental Surface & Color Reconstruction</h2>
+
+
+
+
+
+
+
+
+    <h4 class="title is-4">1.1 Mesh demonstration</h4>
+    <p> We cut the ceiling for better visualization. </p>
+
+      <div class="column is-four-fifths">
+<iframe width="960" height="720" src="https://sketchfab.com/playlists/embed?collection=7375e1f79fea49e18279ea6871b49534&autostart=1"
+        title="result_collection"
+        frameborder="0"
+        allowfullscreen
+        mozallowfullscreen="true"
+        webkitallowfullscreen="true"
+        allow="autoplay; fullscreen; xr-spatial-tracking"
+        xr-spatial-tracking
+        execution-while-out-of-viewport
+        execution-while-not-rendered
+        web-share
+    ></iframe>
+    <p style="font-family: sans-serif;font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/jarroyuan/collections/result_collection-7375e1f79fea49e18279ea6871b49534" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">result_collection</a>
+        by <a href="https://sketchfab.com/jarroyuan" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">jarroyuan</a>
+        on <a href="https://sketchfab.com?utm_source=website&utm_medium=embed&utm_campaign=share-popup" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+	
+	<!--div class="sketchfab-embed-wrapper"> <iframe title="office0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="768" height="576" src="https://sketchfab.com/models/e44d662237804a71addc8cee84f4e8e6/embed"> </iframe> </div-->
+
+      </div>
+
+
+
+
+
+
+
+
+    <h4 class="title is-4">1.2 Surface reconstruction on ScanNet</h4>
+
+    <p>Please zoom in the webpage and wipe the slidebar, BNV-Fusion's results contain lots of small particles in the wall.</p>
+    <div>
+
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0568_bnv.png">
+		    <figcaption>BNV-Fusion</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0568_mine.png">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0164_bnv.png">
+		    <figcaption>BNV-Fusion</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0164_mine.png">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+
+
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0249_bnv.png">
+		    <figcaption>BNV-Fusion</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0249_mine.png">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+
+
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0435_bnv.png">
+		    <figcaption>BNV-Fusion</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0435_mine.png">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0046_bnv.png">
+		    <figcaption>BNV-Fusion</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0046_mine.png">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0050_bnv.png">
+		    <figcaption>BNV-Fusion</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/scannet/scene0050_mine.png">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <h4 class="title is-4">1.3 Rendered Color on Replica</h4>
+    <p>Fair continues mapping baseline NICE-SLAM does not reconstruct fine details. While Uni-Fusion is able to construct high quality result. We also compare with NeRF in paper to show the high postential but not demonstrate it here, as NeRF is task-specific to view-synthesis, which is not a fair baseline.</p>
+    <div>
+
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/replica/nice-slam/of3_575.png">
+		    <figcaption>NICE-SLAM</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/replica/mine/of3_575.jpg">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/replica/nice-slam/rm0_769.png">
+		    <figcaption>NICE-SLAM</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/replica/mine/rm0_769.jpg">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/replica/nice-slam/rm1_425.png">
+		    <figcaption>NICE-SLAM</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/replica/mine/rm1_425.jpg">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+	<div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+		<img-comparison-slider tabindex="0" class="rendered">
+		  <figure slot="first" class="before">
+		    <img width="100%" src="./static/ims/compare/replica/nice-slam/rm2_1085.png">
+		    <figcaption>NICE-SLAM</figcaption>
+		  </figure>
+		  <figure slot="second" class="after">
+		    <img width="100%" src="./static/ims/compare/replica/mine/rm2_1085.jpg">
+		    <figcaption>Uni-Fusion</figcaption>
+		  </figure>
+		</img-comparison-slider>
+	</a></div>
+
+
+
+    </div>
+
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+
+    <h2 class="title is-3">2. Style Transfer on 3D Canvas</h2>
+
+
+	  <center><img src="./static/ims/style.png" class="center" style="max-width: 100%;max-height: 100%;display: inline-block;"></center>
+  </div>
+</section>
+<section class="section">
+  <div class="container is-max-desktop">
+
+    <h2 class="title is-3">3. Saliency Transfer on 3D Canvas</h2>
+
+
+
+	  <center><img src="./static/ims/saliency.png" class="center" style="max-width: 100%;max-height: 100%;display: inline-block;"></center>
+
+
+
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+
+    <h2 class="title is-3">4. Scene Understanding</h2>
+    <p>Uni-Fusion construct Surface Field of CLIP embedding.</p>
+    <hr>
+    <h2 class="title is-4">4.1 Zero-shot Semantic Segmentation</h2>
+	  <center><img src="./static/ims/ss.png" class="center" style="max-width: 100%;max-height: 100%;display: inline-block;"></center>
+
+
+    <h2 class="title is-4">4.2 Scene Understanding</h2>
+	  <center><img src="./static/ims/su.png" class="center" style="max-width: 100%;max-height: 100%;display: inline-block;"></center>
+
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+
+    <h2 class="title is-3">5. All in one</h2>
+	  <center><img src="./static/ims/appartment.png" class="center" style="max-width: 100%;max-height: 100%;display: inline-block;"></center>
+
+  </div>
+</section>
+
+
+
+
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <p>
+This webpage template is from Nerfies. We sincerely appreciate the open-release of this template.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <!--script src="./static/js/compare.js"></script-->
+
+</script>
+</body>
+</html>
