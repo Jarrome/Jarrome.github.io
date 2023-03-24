@@ -35,11 +35,15 @@ alongside Real-time Incremental 3D Reconstruction</title>
   <link rel="stylesheet" href="./static/css/index.css">
   <link rel="icon" href="./static/images/favicon.svg">
 
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script defer src="./static/js/fontawesome.all.min.js"></script>
   <script src="./static/js/bulma-carousel.min.js"></script>
   <script src="./static/js/bulma-slider.min.js"></script>
+<script src="./static/js/video_comparison.js"></script>
   <script src="./static/js/index.js"></script>
+
+
 </head>
 <body>
 
@@ -150,6 +154,23 @@ alongside Real-time Incremental 3D Reconstruction</title>
    </div>
  </div>
 
+<section class="section">
+  <div class="container is-max-desktop">
+
+    <!-- Method. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full-width">
+  
+<div class="container" id="main">
+<div class="video-compare-container">
+    <video class="video" id="musclecar" loop playsinline autoPlay muted src="static/video/combined.mp4" onplay="resizeAndPlay(this)"></video>
+    <canvas height=0 class="videoMerge" id="musclecarMerge"></canvas>
+</div>
+</div>
+
+     </div>
+   </div>
+ </div>
 
 
 <footer class="footer">
