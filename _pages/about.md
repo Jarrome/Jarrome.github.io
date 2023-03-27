@@ -29,6 +29,32 @@ redirect_from:
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
         <div class="one">
+        <img src="https://jarrome.github.io/Uni-Fusion/static/ims/cover.png" width="300" height="120"></div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href="https://jarrome.github.io/Uni-Fusion/"><strong>Uni-Fusion: Universal Continuous Mapping
+</strong></a>
+            </papertitle>
+      <br>
+          <strong>Yijun Yuan</strong>,
+          <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
+      <br>
+          <em>Preprint</em>, 2023
+      <br>
+        <a href="https://jarrome.github.io/Uni-Fusion/">website</a> |
+        <a href="https://arxiv.org/abs/2303.12678">paper</a> <!--|
+        <a href="https://github.com/Jarrome/Uni-Fusion">code</a -->
+        <p></p>
+        The first universal continuous mapping framework for surfaces, surface properties (color, infrared, style, saliency, etc.) and more (latent features in CLIP embedding space, etc.).
+        <p></p>
+      </td>
+    </tr>
+</table> 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one">
         <img src="https://jarrome.github.io/files/IMT_Mapping.png" width="300" height="120"></div>
       </td>
       <td valign="top" width="75%">
