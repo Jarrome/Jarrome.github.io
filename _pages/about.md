@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* I'm now a PhD student in Wuerzburg University. My supervisers are [Prof. Dr. Andreas Nuchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I received my Bachelor’s and Master's Degree from dear ShanghaiTech University.
+* I'm now a PhD student in Wuerzburg University. My supervisers are [Prof. Dr. Andreas Nüchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I received my Bachelor’s and Master's Degree from dear ShanghaiTech University.
 * I'm interested in Robotics. My previous works touch upon Rescue Robotics, Registration and Mapping. 
 
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
