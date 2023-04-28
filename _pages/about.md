@@ -57,6 +57,31 @@ redirect_from:
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
         <div class="one">
+        <img src="https://jarrome.github.io/NSLF-OL/static/im/cover.png" width="300" height="120"></div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href="https://jarrome.github.io/NSLF-OL/"><strong>Online Learning</strong> of <strong>Neural Surface Light Fields</strong> alongside <strong>Real-time Incremental 3D Reconstruction</strong></a>
+            </papertitle>
+      <br>
+          <strong>Yijun Yuan</strong>,
+          <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
+      <br>
+          <em>IEEE Robotics and Automation Letters (<strong>RAL</strong>)</em>, 2023
+      <br>
+        <a href="https://jarrome.github.io/NSLF-OL/">website</a> |
+        <a href="">paper</a> |
+        <a href="https://github.com/Jarrome/NSLF-OL">code</a>
+        <p></p>
+        NSLF-OL explores more fully decoupling the representation of geometry and color. Working alongside real-time surface reconstruction, NSLF-OL focuses on surface field to provide efficient online modeling of light.
+        <p></p>
+      </td>
+    </tr>
+</table> 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one">
         <img src="https://jarrome.github.io/files/IMT_Mapping.png" width="300" height="120"></div>
       </td>
       <td valign="top" width="75%">
