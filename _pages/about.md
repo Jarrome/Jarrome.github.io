@@ -70,7 +70,7 @@ redirect_from:
           <em>IEEE Robotics and Automation Letters (<strong>RAL</strong>)</em>, 2023
       <br>
         <a href="https://jarrome.github.io/NSLF-OL/">website</a> |
-        <a href="">paper</a> |
+        <a href="http://arxiv.org/abs/2305.00282">paper</a> |
         <a href="https://github.com/Jarrome/NSLF-OL">code</a>
         <p></p>
         NSLF-OL explores more fully decoupling the representation of geometry and color. Working alongside real-time surface reconstruction, NSLF-OL focuses on surface field to provide efficient online modeling of light.
