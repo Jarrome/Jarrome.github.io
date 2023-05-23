@@ -146,8 +146,9 @@ alongside Real-time Incremental 3D Reconstruction</title>
       <div class="column is-four-fifths">
         <div class="content has-text-justified">
           <p>
-        We propose to learn NSLF alongside the real-time reconstruction. Our NSLF model is manipulated by Multiple Asynchronous Neural Agents (MANA) that roling data distribution and agent allocating.
-	      And thus, our NSLF is unbounded and thus has potential to work in arbitrary large scenes.	  </p>
+        We propose to learn NSLF alongside the real-time reconstruction. Different from NeRF, NSLF does not relies on ray-integration and thus the spatial training could be in parallel spatially. Then, we manipulate the NSLF by Multiple Asynchronous Neural Agents (MANA) to allocate agents and distribute data.
+        And construct a <b>unbounded</b> and <b>high efficient</b> NSLF-OL model. It has potential to work in <b>real-time</b> on <b>arbitrary large scenes</b>. </p>
+	  </p>
         </div>
       </div>
     </div>
