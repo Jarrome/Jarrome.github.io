@@ -112,8 +112,13 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchGate     : "https://www.researchgate.net/profile/Yijun-Yuan-4"
-
+  links:
+  - label: "researchGate"
+    icon: "fab fa-researchgate"
+    url: "https://www.researchgate.net/profile/Yijun-Yuan-4"
+  - label: "curriculum vitae"
+    icon: "far fa-file"
+    url: "http://jarrome.github.io/files/cv_yijun.pdf"
 # Reading Files
 include:
   - .htaccess
