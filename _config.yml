@@ -112,11 +112,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links            :
-    - label : "researchGate"
-      icon : "fab fa-fw fa-researchgate"
-      url : "https://www.researchgate.net/profile/Yijun_Yuan5"
-      
+  researchGate     : "https://www.researchgate.net/profile/Yijun-Yuan-4"
+
 # Reading Files
 include:
   - .htaccess
