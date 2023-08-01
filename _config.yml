@@ -85,12 +85,8 @@ author:
   bio              : "PhD student, Wuerzburg University"
   location         : "Wuerzburg, Germany"
   links            :
-    - label: "researchGate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Yijun-Yuan-4"
-    - label: "curriculum vitae"
-      icon: "far fa-file"
-      url: "http://jarrome.github.io/files/cv_yijun.pdf"
+  researchgate     : "https://www.researchgate.net/profile/Yijun-Yuan-4"
+  cv               : "http://jarrome.github.io/files/cv_yijun.pdf"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=3fqI1OoAAAAJ&hl=en"
   email            : "yijun.yuan@uni-wuerzburg.de"
