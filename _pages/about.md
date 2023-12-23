@@ -45,7 +45,7 @@ redirect_from:
           <strong>Yijun Yuan</strong>,
           <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
       <br>
-          <em>IEEE Transactions on Robotics</em>, 2024
+          <em>IEEE Transactions on Robotics (<strong>T-RO</strong>)</em>, 2024
       <br>
         <a href="https://jarrome.github.io/Uni-Fusion/">website</a> |
         <a href="https://arxiv.org/abs/2303.12678">paper</a> |
