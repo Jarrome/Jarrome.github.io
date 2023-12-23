@@ -17,7 +17,7 @@ redirect_from:
 
 ### News
 
-* "*Uni-Fusion: Universal Continuous Mapping*" was accepted **T-RO 2024** (23 December, 2023)
+* "*Uni-Fusion: Universal Continuous Mapping*" was accepted to **T-RO 2024** (23 December, 2023)
 
 * "*Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction*" was accepted to **RAL 2023** (28 April, 2023)
 
