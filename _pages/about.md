@@ -17,7 +17,7 @@ redirect_from:
 
 ### News
 
-* "*Uni-Fusion: Universal Continuous Mapping* was accepted **T-RO 2024** " (23 December, 2023)
+* "*Uni-Fusion: Universal Continuous Mapping*" was accepted **T-RO 2024** (23 December, 2023)
 
 * "*Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction*" was accepted to **RAL 2023** (28 April, 2023)
 
@@ -45,11 +45,11 @@ redirect_from:
           <strong>Yijun Yuan</strong>,
           <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
       <br>
-          <em>Preprint</em>, 2023
+          <em>IEEE Transactions on Robotics</em>, 2024
       <br>
         <a href="https://jarrome.github.io/Uni-Fusion/">website</a> |
-        <a href="https://arxiv.org/abs/2303.12678">paper</a> <!--|
-        <a href="https://github.com/Jarrome/Uni-Fusion">code</a -->
+        <a href="https://arxiv.org/abs/2303.12678">paper</a> |
+        <a href="https://github.com/Jarrome/Uni-Fusion">code</a>
         <p></p>
         The first universal continuous mapping framework for surfaces, surface properties (color, infrared, style, saliency, etc.) and more (latent features in CLIP embedding space, etc.).
         <p></p>
