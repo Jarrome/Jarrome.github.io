@@ -16,6 +16,9 @@ redirect_from:
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
 
 ### News
+
+* "*Uni-Fusion: Universal Continuous Mapping* was accepted **T-RO 2024** " (23 December, 2023)
+
 * "*Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction*" was accepted to **RAL 2023** (28 April, 2023)
 
 * "*An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions*" was accepted to **RAL 2022** (15 June, 2022) 
