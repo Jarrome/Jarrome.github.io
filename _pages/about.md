@@ -35,7 +35,7 @@ redirect_from:
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
-        <div class="one">
+        <div class="one"></div>
       </td>
       <td valign="top" width="75%">
             <papertitle>
