@@ -17,7 +17,7 @@ redirect_from:
 
 ### News
 
-* Starting my PhD research visiting in **Prof. Marc Pollefeys**'s group in ETH Zürich (Jan, 2024) 
+* PhD research visiting in **Prof. Marc Pollefeys**'s group in ETH Zürich (Jan, 2024) 
 
 * "*Uni-Fusion: Universal Continuous Mapping*" was accepted to **T-RO 2024** (December, 2023)
 
@@ -32,6 +32,28 @@ redirect_from:
 --- 
 
 ## Recent researches
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one">
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href="https://jarrome.github.io/Uni-Fusion/"><strong>SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling</strong></a>
+            </papertitle>
+      <br>
+          <strong>Yijun Yuan</strong>,
+          <a href="https://www.informatik.uni-wuerzburg.de/robotics/team/bleier/">Michael Bleier</a>,
+          <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
+      <br>
+        <a href="https://arxiv.org/abs/2405.07847">paper</a> |
+        <a href="https://github.com/Jarrome/">website</a> (under construction)
+        <p></p>
+        Following the structure of a “Factory”, we introduce workflow-centric framework that provides “assembly lines” for a wide range of applications, to achieve high flexibility, adaptability and production diversification.
+        <p></p>
+      </td>
+    </tr>
+</table> 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
