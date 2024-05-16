@@ -35,7 +35,7 @@ redirect_from:
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
-        <div class="one"></div>
+        <div class="one"> <img src="https://Jarrome.github.io/SceneFactory/static/ims/cover.png" width="300" height="120"></div>
       </td>
       <td valign="top" width="75%">
             <papertitle>
@@ -47,7 +47,7 @@ redirect_from:
           <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
       <br>
         <a href="https://arxiv.org/abs/2405.07847">paper</a> |
-        <a href="https://github.com/Jarrome/">website</a> (under construction)
+        <a href="https://jarrome.github.io/SceneFactory/">website</a>
         <p></p>
         Following the structure of a “Factory”, we introduce workflow-centric framework that provides “assembly lines” for a wide range of applications, to achieve high flexibility, adaptability and production diversification.
         <p></p>
