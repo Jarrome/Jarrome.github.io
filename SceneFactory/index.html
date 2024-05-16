@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="SceneFactory">
+  <meta name="keywords" content="Latent Implicit Maps">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="stylesheet" href="./static/css/compare.css">
+
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+
+<script
+  defer
+  src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"
+/>
+  <!-- script type="text/javascript" src="./static/js/vanilla-tilt.js"></script-->
+  <script src="./static/js/index.js"></script>
+</head>
+
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://jarrome.github.io">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://jarrome.github.io">
+            Homepage
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="jarrome.github.io">Yijun Yuan</a>,</span>
+            <span class="author-block">
+              <a href="https://www.informatik.uni-wuerzburg.de/robotics/team/bleier/"> Michael Bleier</a>,</span>
+            <span class="author-block">
+              <a href="https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/">Andreas Nüchter</a></span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">InfoXVII - Robotics, Julius-Maximilians-Universität Würzburg
+</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark" style="background-color: #808080">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2405.07847"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark" style="background-color: #808080">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark" style="background-color: #808080">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Data</span>
+                  </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+
+      <div class="column is-four-fifths">
+
+        <h1 class="title is-3">Updating...</h1>
+
+        <div class="content has-text-justified">
+	  <center><img src="./static/ims/cover.png" class="left" style="max-width: 100%;max-height: 100%;display: inline-block;">
+        </div>
+
+
+
+      </div>
+
+
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3">1. Quick Description</h2>
+
+        <h1 class="title is-4">1.1 Dependency Graph</h1>
+        <h1 class="title is-6">We use Dependency Graph to connect components to avoid redundancy.</h1>
+        <div class="content has-text-justified">
+          <center><img src="./static/ims/dependency.png" class="left" style="max-width: 50%;max-height: 50%;display: inline-block;">
+        </div>
+
+        Where four building blocks are involved in the current factory, (1) Mono-SLAM (extended-DPVO), (2) depth estimation (Our U2-MVD), (3) Flexion and (4) scene reconstruction (Our DM-NPs).
+
+        <hr>
+
+        <h1 class="title is-4">1.2 Due-purpose Multiresolutional Neural Points (DM-NPs)</h1>
+        <h1 class="title is-6">1.2.1 The first surface-gettable SLF model.</h1> 
+
+        <div class="content has-text-justified">
+          <center><img src="./static/ims/NPs.png" class="left" style="max-width: 100%;max-height: 100%;display: inline-block;">
+        </div>
+
+
+        <h1 class="title is-6">1.2.2 Make point rasterization as usable as surface rasterization with improved point rasterization (IPR).</h1>
+        <div class="content has-text-justified">
+          <center><img src="./static/ims/PR.png" class="left" style="max-width: 80%;max-height: 80%;display: inline-block;">
+        </div>
+
+        
+            <div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+                <img-comparison-slider tabindex="0" class="rendered">
+                  <figure slot="first" class="before">
+                    <img width="100%" src="./static/ims/IPR/pytorch3d_zoomin.png">
+                    <figcaption>Pytorch3d </figcaption>
+                  </figure>
+                  <figure slot="second" class="after">
+                    <img width="100%" src="./static/ims/IPR/ours_zoomin.png">
+                    <figcaption>Ours w/ radius Adaptation</figcaption>
+                  </figure>
+                </img-comparison-slider>
+            </a></div>
+
+            <div class="" style="max-width: 49%;max-height: 49%;display: inline-block;"><a>
+                <img-comparison-slider tabindex="0" class="rendered">
+                  <figure slot="first" class="before">
+                    <img width="100%" src="./static/ims/IPR/all_layer.jpg">
+                    <figcaption>w/o layer filter</figcaption>
+                  </figure>
+                  <figure slot="second" class="after">
+                    <img width="100%" src="./static/ims/IPR/ours.jpg">
+                    <figcaption>Ours w/ layer filter</figcaption>
+                  </figure>
+                </img-comparison-slider>
+            </a></div>
+
+
+
+
+
+        <h1 class="title is-6">.</h1>
+        <h1 class="title is-4">1.3 Unposed&Uncalibrated Multi-view Depth Estimation (U2-MVD)</h1>
+        <div class="content has-text-justified">
+          <center><img src="./static/ims/mvd.png" class="left" style="max-width: 100%;max-height: 100%;display: inline-block;">
+        </div>
+
+
+
+        <h1 class="title is-4">1.4 Fill in the graph</h1>
+        <div class="content has-text-justified">
+          <center><img src="./static/ims/apps.png" class="left" style="max-width: 100%;max-height: 100%;display: inline-block;">
+        </div>
+
+
+
+
+</section>
+
+
+
+
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <p>
+This webpage template is from Nerfies. We sincerely appreciate the open-release of this template.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+</script>
+</body>
+</html>
