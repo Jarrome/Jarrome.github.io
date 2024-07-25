@@ -39,7 +39,7 @@ redirect_from:
       </td>
       <td valign="top" width="75%">
             <papertitle>
-              <a href="https://jarrome.github.io/Uni-Fusion/"><strong>SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling</strong></a>
+              <a href="https://jarrome.github.io/SceneFactory/"><strong>SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling</strong></a>
             </papertitle>
       <br>
           <strong>Yijun Yuan</strong>,
