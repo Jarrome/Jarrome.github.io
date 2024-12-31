@@ -10,12 +10,21 @@ redirect_from:
 
 
 
-* I'm now a PhD student in Würzburg University. My supervisers are [Prof. Dr. Andreas Nüchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I received my Bachelor’s and Master's Degree from dear ShanghaiTech University.
-* I'm interested in Robotics. My previous works touch upon Rescue Robotics, Registration and Mapping. 
+* I'm now a PostDoc in [MARS lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/), leading by [Prof. Dr. Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en&oi=ao), in Tsinghua IIIS.
+* I received my PhD (Dr. rer. nat.) from Würzburg University. My dear PhD supervisers are [Prof. Dr. Andreas Nüchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I received my Bachelor’s and Master's Degree from dear ShanghaiTech University.
+* I'm interested in Robotics. My previous works touch upon Dense SLAM, Metrical & topological Mapping and Rescue Robotics. 
 
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
 
 ### News
+
+* Awarded Postdoctoral Talent Introduction Program （国家博士后海外引才专项）（Dec, 2024）
+
+* Back homeland and join [MARS lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/) as a Postdoc (Oct, 2024)
+
+* Yijun successfuly defended his PhD thesis ([Cumulative thesis](https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/37397)) (Sept, 2024)
+
+* Awarded Tsinghua Shuimu Scholar Program (水木学者) (July, 2024)
 
 * PhD research visiting in **Prof. Marc Pollefeys**'s group in ETH Zürich (Jan, 2024) 
 
