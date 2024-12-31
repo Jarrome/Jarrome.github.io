@@ -18,13 +18,13 @@ redirect_from:
 
 ### News
 
-* Awarded Postdoctoral Talent Introduction Program （国家博士后海外引才专项）（Dec, 2024）
+* Awarded Postdoctoral Talent Introduction Program（Dec, 2024）
 
 * Back homeland and join [MARS lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/) as a Postdoc (Oct, 2024)
 
 * Yijun successfuly defended his PhD thesis ([Cumulative thesis](https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/37397)) (Sept, 2024)
 
-* Awarded Tsinghua Shuimu Scholar Program (水木学者) (July, 2024)
+* Awarded Tsinghua Shuimu Scholar Program (July, 2024)
 
 * PhD research visiting in **Prof. Marc Pollefeys**'s group in ETH Zürich (Jan, 2024) 
 
