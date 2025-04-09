@@ -59,7 +59,7 @@ redirect_from:
           <em>IEEE Transactions on Robotics (<strong>T-RO</strong>)</em>, 2025
       <br>
         <a href="https://arxiv.org/abs/2405.07847">paper</a> |
-        <a href="https://jarrome.github.io/SceneFactory/">website</a>
+        <a href="https://jarrome.github.io/SceneFactory/">website</a> |
         <a href="https://github.com/Jarrome/SceneFactory">code</a>
         <p></p>
         Following the structure of a “Factory”, we introduce workflow-centric framework that provides “assembly lines” for a wide range of applications, to achieve high flexibility, adaptability and production diversification.
