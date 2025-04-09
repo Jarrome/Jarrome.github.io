@@ -17,6 +17,9 @@ author_profile: true
 ---
 
 ### Publications
+* **Yuan, Y.**, Bleier, M., & Nüchter, A. (2025), "Scenefactory: A workflow-centric and unified framework for incremental scene modeling", IEEE Transactions on Robotics (2025). [<span style="color:blue">(code)</span>](https://github.com/Jarrome/SceneFactory)
+* **Yuan, Y.**, & Nüchter, A. (2024), "Uni-fusion: Universal continuous mapping", IEEE Transactions on Robotics (2024). [<span style="color:blue">(code)</span>](https://github.com/Jarrome/Uni-Fusion)
+* **Yuan, Y.**, & Nüchter, A. (2023), "Online learning of neural surface light fields alongside real-time incremental 3d reconstruction", IEEE Robotics and Automation Letters (2023). [<span style="color:blue">(code)</span>](https://github.com/Jarrome/NSLF-OL)
 * **Yuan, Y.**, & Nüchter, A. (2022), "An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions", IEEE Robotics and Automation Letters (2022). [<span style="color:blue">(code)</span>](https://github.com/Jarrome/IMT_Mapping)
 * **Yuan, Y.**, & Nüchter, A. (2022), "Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set", IEEE Robotics and Automation Letters (2022). [<span style="color:blue">(code)</span>](https://github.com/Jarrome/IFR)
 * Hou, J., **Y. Yuan**, Z. He, and S. Schwertfeger, "Matching Maps based on the Area Graph", Intelligent Service Robotics (2021).
