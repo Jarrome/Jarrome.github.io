@@ -17,6 +17,7 @@ redirect_from:
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
 
 ### News
+* "*SceneFactory*" was accepted to **T-RO 2025** :D (April, 2025)
 
 * Awarded Postdoctoral Talent Introduction Program from The Ministry of Education（Dec, 2024）
 
@@ -55,8 +56,12 @@ redirect_from:
           <a href="https://www.informatik.uni-wuerzburg.de/robotics/team/bleier/">Michael Bleier</a>,
           <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
       <br>
+      <br>
+          <em>IEEE Transactions on Robotics (<strong>T-RO</strong>)</em>, 2025
+      <br>
         <a href="https://arxiv.org/abs/2405.07847">paper</a> |
         <a href="https://jarrome.github.io/SceneFactory/">website</a>
+        <a href="https://github.com/Jarrome/SceneFactory">code</a>
         <p></p>
         Following the structure of a “Factory”, we introduce workflow-centric framework that provides “assembly lines” for a wide range of applications, to achieve high flexibility, adaptability and production diversification.
         <p></p>
