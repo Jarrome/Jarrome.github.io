@@ -56,7 +56,6 @@ redirect_from:
           <a href="https://www.informatik.uni-wuerzburg.de/robotics/team/bleier/">Michael Bleier</a>,
           <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
       <br>
-      <br>
           <em>IEEE Transactions on Robotics (<strong>T-RO</strong>)</em>, 2025
       <br>
         <a href="https://arxiv.org/abs/2405.07847">paper</a> |
