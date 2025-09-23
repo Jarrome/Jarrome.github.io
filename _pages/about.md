@@ -17,31 +17,47 @@ redirect_from:
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
 
 ### News
-* "*SceneFactory*" was accepted to **T-RO 2025** :D (April, 2025)
 
-* Awarded Postdoctoral Talent Introduction Program from The Ministry of Education（Dec, 2024）
+<div>
+<li><strong>04/2025</strong> <a href="https://jarrome.github.io/SceneFactory/"><strong>SceneFactory</strong></a>  was accepted to <strong>T-RO</strong> :D</li>
+<li><strong>12/2024</strong> Awarded Postdoctoral Talent Introduction Program from The Ministry of Education</li>
+<li><strong>10/2024</strong> Join <a href="https://group.iiis.tsinghua.edu.cn/~marslab/#/"><strong>MARS lab</strong></a> as a Postdoc </li>
+<li><strong>09/2024</strong> Yijun successfuly defended his PhD <a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/37397"><strong>thesis</strong></a></li>
+<li><strong>07/2024</strong> Awarded Tsinghua Shuimu Scholar Program from Tsinghua Univ</li>
+<li><strong>01/2024</strong> PhD research visiting in Prof. Marc Pollefeys's group in ETH Zürich
+</li>
+<li><strong>12/2023</strong> <a href="https://jarrome.github.io/Uni-Fusion/"><strong>Uni-Fusion</strong></a> was accepted to <strong>T-RO</strong></li>
+</div>      
 
-* Back homeland and join [MARS lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/) as a Postdoc (Oct, 2024)
-
-* Yijun successfuly defended his PhD thesis ([Cumulative thesis](https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/37397)) (Sept, 2024)
-
-* Awarded Tsinghua Shuimu Scholar Program from Tsinghua Univ (July, 2024)
-
-* PhD research visiting in **Prof. Marc Pollefeys**'s group in ETH Zürich (Jan, 2024) 
-
-* "*Uni-Fusion: Universal Continuous Mapping*" was accepted to **T-RO 2024** (December, 2023)
-
-* "*Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction*" was accepted to **RAL 2023** (April, 2023)
-
-* "*An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions*" was accepted to **RAL 2022** (June, 2022) 
-  
-* "*Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set*" was accepted to **RAL 2022** (May, 2022) 
-  
-* A new start in Wuerzburg University (15 sept, 2021. )
 
 --- 
 
 ## Recent researches
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one"> <img src="https://github.com/Tsinghua-MARS-Lab/SLAM-Former/blob/page/static/ims/slam.png" width="300" height="120"></div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href="https://tsinghua-mars-lab.github.io/SLAM-Former"><strong>SLAM-Former: Putting SLAM into One Transformer</strong></a>
+            </papertitle>
+      <br>
+          <strong>Yijun Yuan</strong>,
+          Zhuoguang Chen, 
+          Kenan Li, 
+          Weibang Wang, 
+          Hang Zhao
+      <br>
+        <a href="https://arxiv.org/abs/2509.16909">paper</a> |
+        <a href="https://tsinghua-mars-lab.github.io/SLAM-Former">website</a> |
+        <a href="https://github.com/Tsinghua-MARS-Lab/SLAM-Former">code</a>
+        <p></p>
+        We present SLAM-Former, a novel neural approach that integrates full SLAM capabilities into a single transformer. 
+        <p></p>
+      </td>
+    </tr>
+</table> 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
