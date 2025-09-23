@@ -36,7 +36,7 @@ redirect_from:
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
-        <div class="one"> <img src="https://github.com/Tsinghua-MARS-Lab/SLAM-Former/blob/page/static/ims/slam.png" width="300" height="120"></div>
+        <div class="one"> <img src="https://Jarrome.github.io/files/SLAM-Former.png" width="300" height="120"></div>
       </td>
       <td valign="top" width="75%">
             <papertitle>
