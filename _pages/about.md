@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 
-
-* I'm now a PostDoc in [MARS lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/), leading by [Prof. Dr. Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en&oi=ao), in Tsinghua IIIS.
-* I received my PhD (Dr. rer. nat.) from Würzburg University. My dear PhD supervisers are [Prof. Dr. Andreas Nüchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de) (External). Before that I received my Bachelor’s and Master's Degree from dear ShanghaiTech University.
-* I'm interested in Robotics. My previous works touch upon Dense SLAM, Metrical & topological Mapping and Rescue Robotics. 
+I'm now a PostDoc in [MARS lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/), led by [Prof. Dr. Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en&oi=ao), in Tsinghua IIIS.
+I received my PhD (Dr. rer. nat.) from Würzburg University. My dear PhD supervisers are [Prof. Dr. Andreas Nüchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de). Before that I received my Bachelor’s and Master's Degree from dear ShanghaiTech University.
+I'm interested in Robotics. My current researches are mainly related to dense SLAM. 
 
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
 
@@ -28,7 +27,6 @@ redirect_from:
 </li>
 <li><strong>12/2023</strong> <a href="https://jarrome.github.io/Uni-Fusion/"><strong>Uni-Fusion</strong></a> was accepted to <strong>T-RO</strong></li>
 </div>      
-
 
 --- 
 
@@ -186,7 +184,7 @@ redirect_from:
 
 ---
 
-<p>Full publications show in <a href="https://jarrome.github.io/publications">page</a>. All codes have been open-released.
+<p>More<a href="https://jarrome.github.io/publications">page</a>
 </p>
 <!-- 
 * Paper _Self-supervised Point Set Local Descriptors for Point Cloud Registration._ acc to Sensors 2021 (7 Jan, 2021. )
