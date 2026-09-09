@@ -18,6 +18,9 @@ I'm interested in Robotics. My current researches are mainly related to dense SL
 ### News
 
 <div>
+<li><strong>08/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAMFormer-Infinity/"><strong>SLAMFormer-Infinity</strong></a> was released </li>
+<li><strong>06/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAM-Former/"><strong>SLAM-Former</strong></a>  was accepted to <strong>ECCV 2026</strong></li>
+<li><strong>02/2026</strong> <a href="https://arxiv.org/abs/2603.27300"><strong>Complet4R</strong></a>  was accepted to <strong>CVPR 2026</strong></li>
 <li><strong>04/2025</strong> <a href="https://jarrome.github.io/SceneFactory/"><strong>SceneFactory</strong></a>  was accepted to <strong>T-RO</strong> :D</li>
 <li><strong>12/2024</strong> Awarded Postdoctoral Talent Introduction Program from The Ministry of Education</li>
 <li><strong>10/2024</strong> Join <a href="https://group.iiis.tsinghua.edu.cn/~marslab/#/"><strong>MARS lab</strong></a> as a Postdoc </li>
@@ -34,6 +37,57 @@ I'm interested in Robotics. My current researches are mainly related to dense SL
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
+        <div class="one"> <img src="https://Jarrome.github.io/files/spatial_downstream.png" width="300" height="120"></div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href=""><strong>Full data-driven Downstream Pipeline</strong></a>
+            </papertitle>
+      <br>
+        To be released at 2026.09.19...
+      <br>
+      <br>
+        <a href="">paper</a> |
+        <a href="">website</a> |
+        <a href="">code</a>
+        <p></p>
+        A novel neural approach that integrates downstream capabilities into a single model 
+        <p></p>
+      </td>
+    </tr>
+</table> 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one"> <img src="" width="300" height="120"></div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href="https://github.com/Tsinghua-MARS-Lab/SLAMFormer-Infinity"><strong>SLAMFormer-∞: Infinite SLAM Transformer for Unbounded Frontend and Backend Processing</strong></a>
+            </papertitle>
+      <br>
+          Zhijian Fang<sup>*</sup>, 
+          Weicheng Zheng<sup>*</sup>, 
+          <strong>Yijun Yuan<sup>*†</sup></strong>,
+          Weibang Wang, 
+          Zhuoguang Chen, 
+          Chang Sun, 
+          Junhao Huang, 
+          Kenan Li, 
+          Minghui Qin,   
+          Hang Zhao<sup>†</sup>
+      <br>
+        <a href="https://arxiv.org/abs/2608.03429">paper</a> |
+        <a href="https://github.com/Tsinghua-MARS-Lab/SLAMFormer-Infinity">website</a> |
+        <p></p>
+        We introduce the Infinite SLAM Transformer (SLAMFormer-∞), the first geometric transformer capable of supporting both long-range frontend and backend processing without an explicit distance bound.        
+        <p></p>
+      </td>
+    </tr>
+</table> 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
         <div class="one"> <img src="https://Jarrome.github.io/files/SLAM-Former.png" width="300" height="120"></div>
       </td>
       <td valign="top" width="75%">
@@ -45,13 +99,44 @@ I'm interested in Robotics. My current researches are mainly related to dense SL
           Zhuoguang Chen, 
           Kenan Li, 
           Weibang Wang, 
+          Minghui Qin, 
+          Zhijian Fang, 
+          Weicheng Zheng,
           Hang Zhao
+      <br>
+          <em><strong>ECCV</strong></em>, 2026
       <br>
         <a href="https://arxiv.org/abs/2509.16909">paper</a> |
         <a href="https://tsinghua-mars-lab.github.io/SLAM-Former">website</a> |
         <a href="https://github.com/Tsinghua-MARS-Lab/SLAM-Former">code</a>
         <p></p>
         We present SLAM-Former, a novel neural approach that integrates full SLAM capabilities into a single transformer. 
+        <p></p>
+      </td>
+    </tr>
+</table> 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one"> <img src="" width="300" height="120"></div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href="[https://tsinghua-mars-lab.github.io/SLAM-Former](https://arxiv.org/abs/2603.27300)"><strong>Complet4R: Geometric Complete 4D Reconstruction
+</strong></a>
+            </papertitle>
+      <br>
+          Weibang Wang<sup>*</sup>, 
+          Zhuoguang Chen<sup>*</sup>, 
+          Kenan Li<sup>*</sup>, 
+          <strong>Yijun Yuan<sup>†</sup></strong>,
+          Hang Zhao<sup>†</sup>
+      <br>
+          <em><strong>CVPR</strong></em>, 2026
+      <br>
+        <a href="https://arxiv.org/abs/2603.27300">paper</a> |
+        <p></p>
+        We introduce Complet4R, a novel end-to-end framework for Geometric Complete 4D Reconstruction, which aims to recover temporally coherent and geometrically complete reconstruction for dynamic scenes.        
         <p></p>
       </td>
     </tr>
