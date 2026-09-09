@@ -271,9 +271,7 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
     </tr>
 </table> 
 
----
-
-<p>More<a href="https://jarrome.github.io/publications">page</a>
+<p><a href="https://jarrome.github.io/publications">More</a>
 </p>
 <!-- 
 * Paper _Self-supervised Point Set Local Descriptors for Point Cloud Registration._ acc to Sensors 2021 (7 Jan, 2021. )
