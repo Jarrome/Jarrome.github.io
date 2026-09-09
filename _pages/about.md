@@ -15,7 +15,7 @@ I received my PhD (Dr. rer. nat.) from Würzburg University. My dear PhD supervi
 
 I'm interested in Robotics. My current researches are mainly related to SLAM for Embodied AI. 
 
-[CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
+[CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://github.com/Jarrome)
 
 ### News
 
