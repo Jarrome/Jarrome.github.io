@@ -10,8 +10,10 @@ redirect_from:
 
 
 I'm now a PostDoc in [MARS lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/), led by [Prof. Dr. Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en&oi=ao), in Tsinghua IIIS.
+
 I received my PhD (Dr. rer. nat.) from Würzburg University. My dear PhD supervisers are [Prof. Dr. Andreas Nüchter](https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en), [Prof. Dr. Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ&hl=en&oi=ao) and [Prof. Dr. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de). Before that I received my Bachelor’s and Master's Degree from dear ShanghaiTech University.
-I'm interested in Robotics. My current researches are mainly related to dense SLAM. 
+
+I'm interested in Robotics. My current researches are mainly related to SLAM for Embodied AI. 
 
 [CV](http://jarrome.github.io/files/cv_yijun.pdf)  \|   [ResearchGate](https://www.researchgate.net/profile/Yijun_Yuan5)  \|    [codes](https://jarrome.github.io/publications/)
 
@@ -21,7 +23,7 @@ I'm interested in Robotics. My current researches are mainly related to dense SL
 <li><strong>08/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAMFormer-Infinity/"><strong>SLAMFormer-Infinity</strong></a> was released </li>
 <li><strong>06/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAM-Former/"><strong>SLAM-Former</strong></a>  was accepted to <strong>ECCV 2026</strong></li>
 <li><strong>02/2026</strong> <a href="https://arxiv.org/abs/2603.27300"><strong>Complet4R</strong></a>  was accepted to <strong>CVPR 2026</strong></li>
-<li><strong>04/2025</strong> <a href="https://jarrome.github.io/SceneFactory/"><strong>SceneFactory</strong></a>  was accepted to <strong>T-RO</strong> :D</li>
+<li><strong>04/2025</strong> <a href="https://jarrome.github.io/SceneFactory/"><strong>SceneFactory</strong></a>  was accepted to <strong>T-RO</strong></li>
 <li><strong>12/2024</strong> Awarded Postdoctoral Talent Introduction Program from The Ministry of Education</li>
 <li><strong>10/2024</strong> Join <a href="https://group.iiis.tsinghua.edu.cn/~marslab/#/"><strong>MARS lab</strong></a> as a Postdoc </li>
 <li><strong>09/2024</strong> Yijun successfuly defended his PhD <a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/37397"><strong>thesis</strong></a></li>
@@ -37,7 +39,7 @@ I'm interested in Robotics. My current researches are mainly related to dense SL
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
-        <div class="one"> <img src="https://Jarrome.github.io/files/spatial_downstream.png" width="300" height="120"></div>
+        <div class="one"> <img src="https://Jarrome.github.io/files/spatial_downstream.png" width="300" height="80"></div>
       </td>
       <td valign="top" width="75%">
             <papertitle>
@@ -56,10 +58,12 @@ I'm interested in Robotics. My current researches are mainly related to dense SL
       </td>
     </tr>
 </table> 
+ 
+
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
-        <div class="one"> <img src="" width="300" height="120"></div>
+        <div class="one"> <img src="https://Jarrome.github.io/files/slamformer-infty.jpg" width="300" height="120"></div>
       </td>
       <td valign="top" width="75%">
             <papertitle>
@@ -118,11 +122,11 @@ I'm interested in Robotics. My current researches are mainly related to dense SL
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
-        <div class="one"> <img src="" width="300" height="120"></div>
+        <div class="one"> <img src="https://Jarrome.github.io/files/complet4r.png" width="300" height="120"></div>
       </td>
       <td valign="top" width="75%">
             <papertitle>
-              <a href="[https://tsinghua-mars-lab.github.io/SLAM-Former](https://arxiv.org/abs/2603.27300)"><strong>Complet4R: Geometric Complete 4D Reconstruction
+              <a href="https://arxiv.org/abs/2603.27300"><strong>Complet4R: Geometric Complete 4D Reconstruction
 </strong></a>
             </papertitle>
       <br>
