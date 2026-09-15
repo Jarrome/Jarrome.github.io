@@ -46,7 +46,7 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
               <a href=""><strong>Full data-driven Downstream Pipeline</strong></a>
             </papertitle>
       <br>
-        To be released at 2026.09.19...
+        To be released at 2026.09.25 ...
       <br>
       <br>
         <a href="">paper</a> |
@@ -58,7 +58,6 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
       </td>
     </tr>
 </table> 
- 
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
