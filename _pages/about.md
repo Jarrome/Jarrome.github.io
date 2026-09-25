@@ -20,6 +20,7 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
 ### News
 
 <div>
+<li><strong>09/2026</strong> <a href="https://tsinghua-mars-lab.github.io/RepresentationWorldModel/"><strong>Representation World Model</strong></a> was released </li>
 <li><strong>08/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAMFormer-Infinity/"><strong>SLAMFormer-Infinity</strong></a> was released </li>
 <li><strong>06/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAM-Former/"><strong>SLAM-Former</strong></a>  was accepted to <strong>ECCV 2026</strong></li>
 <li><strong>02/2026</strong> <a href="https://arxiv.org/abs/2603.27300"><strong>Complet4R</strong></a>  was accepted to <strong>CVPR 2026</strong></li>
@@ -36,6 +37,40 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
 --- 
 
 ## Recent researches
+
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one"> <img src="https://Jarrome.github.io/files/RWM.png" width="300" height="120"></div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href="https://tsinghua-mars-lab.github.io/RepresentationWorldModel"><strong>Representation World Model
+</strong></a>
+            </papertitle>
+      <br>
+          <strong>Yijun Yuan</strong>,
+          Weicheng Zheng,
+          Weibang Wang, 
+          Minghui Qin,
+          Chang Sun, 
+          Junhao Huang, 
+          Kenan Li, 
+          Anmin Liu, 
+          Yicheng Yao, 
+          Hang Zhao
+      <br>
+        <a href="https://arxiv.org/abs/2609.29171">paper</a> |
+        <a href="https://tsinghua-mars-lab.github.io/RepresentationWorldModel">website</a> |
+        <p></p>
+        We propose the Representation World Model (RWM), which learns states, transitions, and executable plans directly in representation space.
+        <p></p>
+      </td>
+    </tr>
+</table> 
+
+
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
@@ -88,6 +123,7 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
       </td>
     </tr>
 </table> 
+
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
