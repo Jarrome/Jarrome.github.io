@@ -20,7 +20,7 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
 ### News
 
 <div>
-<li><strong>09/2026</strong> <a href="https://github.com/Tsinghua-MARS-Lab/RepresentationWorldModel"><strong>Representation World Model</strong></a> and </strong> <a href="https://tsinghua-mars-lab.github.io/WorldSLAMModel"><strong>World SLAM Model</strong></a> were released </li>
+<li><strong>09/2026</strong> <a href="https://github.com/Tsinghua-MARS-Lab/RepresentationWorldModel"><strong>Representation World Model</strong></a> and <a href="https://tsinghua-mars-lab.github.io/WorldSLAMModel"><strong>World SLAM Model</strong></a> were released </li>
 <li><strong>08/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAMFormer-Infinity/"><strong>SLAMFormer-Infinity</strong></a> was released </li>
 <li><strong>06/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAM-Former/"><strong>SLAM-Former</strong></a>  was accepted to <strong>ECCV 2026</strong></li>
 <li><strong>02/2026</strong> <a href="https://arxiv.org/abs/2603.27300"><strong>Complet4R</strong></a>  was accepted to <strong>CVPR 2026</strong></li>
