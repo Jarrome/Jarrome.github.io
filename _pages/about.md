@@ -20,7 +20,7 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
 ### News
 
 <div>
-<li><strong>09/2026</strong> <a href="https://tsinghua-mars-lab.github.io/RepresentationWorldModel/"><strong>Representation World Model</strong></a> was released </li>
+<li><strong>09/2026</strong> <a href="https://github.com/Tsinghua-MARS-Lab/RepresentationWorldModel"><strong>Representation World Model</strong></a> and </strong> <a href="https://tsinghua-mars-lab.github.io/WorldSLAMModel"><strong>World SLAM Model</strong></a> were released </li>
 <li><strong>08/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAMFormer-Infinity/"><strong>SLAMFormer-Infinity</strong></a> was released </li>
 <li><strong>06/2026</strong> <a href="https://tsinghua-mars-lab.github.io/SLAM-Former/"><strong>SLAM-Former</strong></a>  was accepted to <strong>ECCV 2026</strong></li>
 <li><strong>02/2026</strong> <a href="https://arxiv.org/abs/2603.27300"><strong>Complet4R</strong></a>  was accepted to <strong>CVPR 2026</strong></li>
@@ -37,7 +37,36 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
 --- 
 
 ## Recent researches
-
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
+        <div class="one"> <img src="https://Jarrome.github.io/files/WSM.png" width="300" height="80"></div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href="https://tsinghua-mars-lab.github.io/WorldSLAMModel"><strong>World SLAM Model: Joint World Modeling for SLAM and Navigation </strong></a>
+            </papertitle>
+      <br>
+          Minghui Qin<sup>*</sup>, 
+          <strong>Yijun Yuan<sup>*†</sup></strong>,
+          Weibang Wang, 
+          Weicheng Zheng, 
+          Kenan Li, 
+          Weibang Wang, 
+          Chang Sun, 
+          Junhao Huang, 
+          Anmin Liu, 
+          Yicheng Yao, 
+          Hang Zhao<sup>†</sup>      
+      <br>
+        <a href="https://arxiv.org/abs/2609.32626">paper</a> |
+        <a href="https://tsinghua-mars-lab.github.io/WorldSLAMModel">website</a> |
+        <a href="https://github.com/Tsinghua-MARS-Lab/WorldSLAMModel">code</a>
+        <p></p>
+        We introduce World SLAM Model (WSM), a unified framework that brings the SLAM paradigm directly into downstream navigation. <p></p>
+      </td>
+    </tr>
+</table> 
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
@@ -46,7 +75,7 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
       </td>
       <td valign="top" width="75%">
             <papertitle>
-              <a href="https://tsinghua-mars-lab.github.io/RepresentationWorldModel"><strong>Representation World Model
+              <a href="https://github.com/Tsinghua-MARS-Lab/RepresentationWorldModel"><strong>Representation World Model
 </strong></a>
             </papertitle>
       <br>
@@ -71,28 +100,7 @@ I'm interested in Robotics. My current researches are mainly related to SLAM for
 </table> 
 
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
-    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
-      <td width="25%">
-        <div class="one"> <img src="https://Jarrome.github.io/files/spatial_downstream.png" width="300" height="80"></div>
-      </td>
-      <td valign="top" width="75%">
-            <papertitle>
-              <a href=""><strong>Full data-driven Downstream Pipeline</strong></a>
-            </papertitle>
-      <br>
-        To be released at 2026.09.25 ...
-      <br>
-      <br>
-        <a href="">paper</a> |
-        <a href="">website</a> |
-        <a href="">code</a>
-        <p></p>
-        A novel neural approach that integrates downstream capabilities into a single model 
-        <p></p>
-      </td>
-    </tr>
-</table> 
+
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
